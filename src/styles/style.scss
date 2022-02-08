@@ -1,0 +1,28 @@
+body {
+  background-color: blue;
+}
+#task-form {
+  .form-control {
+    font-weight: 400;
+  }
+  button {
+    font-weight: 400;
+    font-size: 18px;
+  }
+  input {
+    font-weight: 400;
+    padding: 5px 14px;
+    font-family: "Open Sans sans-serif";
+    font-size: 18px;
+    &.btn-danger {
+      background-color: #dc3545;
+      border-color: #dc3545;
+    }
+    &#superuniqueid {
+      opacity: 0;
+      height: 0;
+      line-height: 0;
+      position: absolute;
+    }
+  }
+}

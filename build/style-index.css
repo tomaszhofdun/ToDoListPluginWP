@@ -1,0 +1,32 @@
+/*!**********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/styles/style.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************/
+body {
+  background-color: blue;
+}
+
+#task-form .form-control {
+  font-weight: 400;
+}
+#task-form button {
+  font-weight: 400;
+  font-size: 18px;
+}
+#task-form input {
+  font-weight: 400;
+  padding: 5px 14px;
+  font-family: "Open Sans sans-serif";
+  font-size: 18px;
+}
+#task-form input.btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+#task-form input#superuniqueid {
+  opacity: 0;
+  height: 0;
+  line-height: 0;
+  position: absolute;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
